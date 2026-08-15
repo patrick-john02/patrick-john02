@@ -1,81 +1,48 @@
-<h1 align="center">Hi there, I'm Patrick John 👋</h1>
+<h1 align="center">Patrick John A. Dulin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I+build+things+with+code.;Always+learning+something+new." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Founder+%40+Guestures;Crafting+minimalist+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/patrick-john02"><img src="https://komarev.com/ghpvc/?username=patrick-john02&label=Profile%20Views&color=2f81f7&style=flat" alt="profile views"/></a>
+  <a href="https://github.com/patrick-john02"><img src="https://komarev.com/ghpvc/?username=patrick-john02&label=Profile%20Views&color=555555&style=flat-square" alt="profile views"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 💻 Web + AI Engineer building full-stack apps and AI-powered systems
-- 🔭 Currently working on: *add your current project here*
-- 🌱 Currently exploring: agentic AI workflows with LangChain & Pydantic AI
-- 💬 Ask me about: Django REST Framework, FastAPI, LLM orchestration, vector search
-- 📫 Reach me at: *your email or contact link*
-- ⚡ Fun fact: *something fun about you*
+I am a 23-year-old Full-Stack Developer currently working as a Computer Programmer for the Provincial Government of Cagayan and pursuing my Master of Science in Information Technology. I specialize in building robust, scalable web applications and managing bare-metal deployments from the ground up. 
 
----
+I am also the founder of Guestures, where I provide web development and system services. My recent professional work includes engineering the Student Portal System for Gosi Senior High School and developing the Admission Test with Course Recommendation System for Apayao State College. 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-**Backend**
+**Backend & Frameworks:** Python, Django REST Framework, FastAPI
+**Frontend & UI:** Vue.js, Tailwind CSS, Shadcn
+**Infrastructure & Tools:** Docker, Linux, Bash Scripting, rsync
+**Databases:** PostgreSQL, MySQL
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi" alt="backend icons"/>
-</p>
-
-**AI Orchestration**
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="langchain"/>
-  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge" alt="pydantic ai"/>
-</p>
-
-**Machine Learning**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="ml icons"/>
-</p>
-
-**Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue" alt="frontend icons"/>
-</p>
-
-**Deployment**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" alt="deployment icons"/>
-</p>
-
-**Vector Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="qdrant"/>
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" alt="pgvector"/>
-</p>
-
-**Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="database icons"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,vue,tailwind,docker,linux,bash,postgres,mysql&theme=dark" alt="tech stack icons"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patrick-john02&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-john02&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patrick-john02&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-john02&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-john02&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-john02&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Graph
 
 <p align="center">
   <picture>
@@ -88,5 +55,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! ⭐ from patrick-john02</i>
+  <i>Stay disciplined. Keep building.</i>
 </p>
