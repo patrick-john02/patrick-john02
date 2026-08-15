@@ -12,7 +12,7 @@
 
 ### About Me
 
-I am a Web and AI Engineer focused on full-stack development and integrating intelligent, agentic workflows into scalable systems. Through my startup, Guestures, and my work managing real-world deployments for local government platforms, I combine solid architectural principles with emerging AI orchestration to build robust applications.
+I am a Web and AI Engineer focused on full-stack development and integrating intelligent, agentic workflows into scalable systems.
 
 ### Tech Stack
 
