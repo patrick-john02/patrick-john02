@@ -12,9 +12,10 @@
 
 ### 🚀 About Me
 
+- 💻 Web + AI Engineer building full-stack apps and AI-powered systems
 - 🔭 Currently working on: *add your current project here*
-- 🌱 Currently learning: *add what you're learning here*
-- 💬 Ask me about: *your strongest skills/topics*
+- 🌱 Currently exploring: agentic AI workflows with LangChain & Pydantic AI
+- 💬 Ask me about: Django REST Framework, FastAPI, LLM orchestration, vector search
 - 📫 Reach me at: *your email or contact link*
 - ⚡ Fun fact: *something fun about you*
 
@@ -22,8 +23,41 @@
 
 ### 🛠️ Tech Stack
 
+**Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,figma,vscode" alt="tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi" alt="backend icons"/>
+</p>
+
+**AI Orchestration**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="langchain"/>
+  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge" alt="pydantic ai"/>
+</p>
+
+**Machine Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="ml icons"/>
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vue" alt="frontend icons"/>
+</p>
+
+**Deployment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" alt="deployment icons"/>
+</p>
+
+**Vector Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="qdrant"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" alt="pgvector"/>
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="database icons"/>
 </p>
 
 ---
