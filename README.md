@@ -1,7 +1,7 @@
-<h1 align="center">Patrick John A. Dulin</h1>
+<h1 align="center">Patrick</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Founder+%40+Guestures;Crafting+minimalist+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Web+%2B+AI+Engineer;Building+intelligent+systems;Crafting+minimalist+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,19 +12,24 @@
 
 ### About Me
 
-I am a 23-year-old Full-Stack Developer currently working as a Computer Programmer for the Provincial Government of Cagayan and pursuing my Master of Science in Information Technology. I specialize in building robust, scalable web applications and managing bare-metal deployments from the ground up. 
-
-I am also the founder of Guestures, where I provide web development and system services. My recent professional work includes engineering the Student Portal System for Gosi Senior High School and developing the Admission Test with Course Recommendation System for Apayao State College. 
+I am a Web and AI Engineer focused on full-stack development and integrating intelligent, agentic workflows into scalable systems. Through my startup, Guestures, and my work managing real-world deployments for local government platforms, I combine solid architectural principles with emerging AI orchestration to build robust applications.
 
 ### Tech Stack
 
-**Backend & Frameworks:** Python, Django REST Framework, FastAPI
-**Frontend & UI:** Vue.js, Tailwind CSS, Shadcn
-**Infrastructure & Tools:** Docker, Linux, Bash Scripting, rsync
-**Databases:** PostgreSQL, MySQL
+**Backend:** Django REST Framework, FastAPI
+**Frontend:** React, Vue
+**AI & Machine Learning:** PyTorch, LangChain, Pydantic AI
+**Databases & Vector Stores:** PostgreSQL, MySQL, Qdrant, pgvector
+**Deployment:** Docker
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,vue,tailwind,docker,linux,bash,postgres,mysql&theme=dark" alt="tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,vue,pytorch,postgres,mysql,docker&theme=dark" alt="core stack"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-222222?style=flat-square&logo=langchain&logoColor=white" alt="langchain"/>
+  <img src="https://img.shields.io/badge/Pydantic%20AI-222222?style=flat-square&logo=pydantic&logoColor=white" alt="pydantic ai"/>
+  <img src="https://img.shields.io/badge/Qdrant-222222?style=flat-square&logo=qdrant&logoColor=white" alt="qdrant"/>
+  <img src="https://img.shields.io/badge/pgvector-222222?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
 </p>
 
 ---
