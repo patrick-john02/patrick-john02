@@ -60,5 +60,5 @@ I am a Web and AI Engineer focused on full-stack development and integrating int
 ---
 
 <p align="center">
-  <i>Stay disciplined. Keep building.</i>
+  <i>Building systems that think, scale, and endure.</i>
 </p>
